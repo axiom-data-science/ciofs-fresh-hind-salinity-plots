@@ -4,4 +4,4 @@ Monthly-averages of surface salinity for the hindcast CIOFS and freshwater-force
 
 Made by Chang Liu, September 2024, for the CIOFS Freshwater project, then incorporated into the final report by Kristen Thyng.
 
-You can use the environment made for ciofs-skill-assessment.
+You can use the environment made for ciofs-skill-assessment. The report repository is at https://github.com/axiom-data-science/ciofs-freshwater-report.
